@@ -9,3 +9,7 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 
 哈哈哈哈哈哈哈哈
+
+version 1.0.2 is developing 
+
+version 1.0.2 completed
