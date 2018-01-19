@@ -11,3 +11,8 @@ Creating a new branch is quick AND simple.
 哈哈哈哈哈哈哈哈
 
 repair one big bug
+
+version 1.0.2 is developing 
+
+version 1.0.2 completed
+
